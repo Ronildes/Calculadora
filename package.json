@@ -1,0 +1,10 @@
+{
+  "name": "Calculadora",
+  "version": "1.0.0",
+  "description": "Essa é uma calculadora para dispositivos mobile, o front-end dela foi feito em react-native e o back-end em node.js, pretendo lançar atualizações dela, afinal é otimo para se treinar logica de programação!",
+  "main": "index.js",
+  "repository": "https://github.com/Ronildes/Calculadora",
+  "author": "Ronildes Rangel",
+  "license": "MIT",
+  "private": false
+}
